@@ -34,7 +34,7 @@ export default function Home() {
     </a>
     <div className="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
       <a className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 transition rounded text-base mt-4 md:mt-0" href="/CV/William_McDowell_2021_CV.pdf" rel={"noreferrer noopener"} target="_blank">Check Out CV
-        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-1" viewBox="0 0 24 24">
+        <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-1" viewBox="0 0 24 24">
           <path d="M5 12h14M12 5l7 7-7 7"></path>
         </svg>
       </a>
@@ -70,13 +70,13 @@ export default function Home() {
   <div className="container px-5 pb-24 mx-auto flex flex-wrap">
 
     <div className="lg:w-2/3 w-full mx-auto">
-      <a className="flex flex-wrap w-full bg-gray-100 hover:bg-green-50 transition py-32 px-10 relative mb-4 rounded-lg overflow-hidden cursor-pointer" href="/portfolio/Preferences_Profiles.pdf" rel={"noreferrer noopener"} target="_blank">
+      <a className="flex flex-wrap w-full bg-gray-100 hover:bg-green-50 transition py-32 px-10 relative mb-4 rounded-lg overflow-hidden cursor-pointer" href="/CaseStudy1">
         <img alt="gallery" className="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src="/img/Preferences_Profiles.png"/>
         <div className="text-center relative z-10 w-full">
           <h2 className="text-2xl text-gray-900 font-medium title-font mb-2">Preference &amp; Profiles</h2>
           <p className="leading-relaxed">Sketch, Invision Prototype</p>
           <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+            <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
           </a>
@@ -92,7 +92,7 @@ export default function Home() {
               <h2 className="text-xl text-gray-900 font-medium title-font mb-2">Production Risk Management</h2>
               <p className="leading-relaxed">Adobe XD</p>
               <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
               </a>
@@ -100,13 +100,13 @@ export default function Home() {
           </a>
         </div>
         <div className="px-2 w-1/2">
-          <a className="flex flex-wrap w-full h-full bg-gray-100 hover:bg-green-50 transition sm:py-24 py-16 sm:px-10 px-6 relative rounded-lg overflow-hidden cursor-pointer" href="/portfolio/Agreements.pdf" rel={"noreferrer noopener"} target="_blank">
+          <a className="flex flex-wrap w-full h-full bg-gray-100 hover:bg-green-50 transition sm:py-24 py-16 sm:px-10 px-6 relative rounded-lg overflow-hidden cursor-pointer" href="/CaseStudy2">
             <img alt="gallery" className="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src="/img/Agreements.png"/>
             <div className="text-center relative z-10 w-full">
               <h2 className="text-xl text-gray-900 font-medium title-font mb-2">Agreements</h2>
               <p className="leading-relaxed">Adobe XD</p>
               <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
               </a>
@@ -122,7 +122,7 @@ export default function Home() {
           <h2 className="text-2xl text-gray-900 font-medium title-font mb-2">Acadia Full Website</h2>
           <p className="leading-relaxed">Design Consultancy</p>
           <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+            <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
           </a>
@@ -132,13 +132,13 @@ export default function Home() {
       <div className="lg:w-2/3 w-full mx-auto">
       <div className="flex flex-wrap -mx-2 pb-4 h-full">
         <div className="px-2 w-1/2">
-          <a className="flex flex-wrap w-full bg-gray-100 hover:bg-green-50 transition sm:py-24 py-16 sm:px-10 px-6 relative rounded-lg overflow-hidden cursor-pointer" href="/portfolio/Data_DarkMode.pdf" rel={"noreferrer noopener"} target="_blank">
+          <a className="flex flex-wrap w-full bg-gray-100 hover:bg-green-50 transition sm:py-24 py-16 sm:px-10 px-6 relative rounded-lg overflow-hidden cursor-pointer" href="/CaseStudy3">
             <img alt="gallery" className="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src="/img/Data_DarkMode.png"/>
             <div className="text-center relative z-10 w-full">
               <h2 className="text-xl text-gray-900 font-medium title-font mb-2">Data Organization</h2>
               <p className="leading-relaxed">Adobe XD</p>
               <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
               </a>
@@ -146,13 +146,13 @@ export default function Home() {
           </a>
         </div>
         <div className="px-2 w-1/2">
-          <a className="flex flex-wrap w-full h-full bg-gray-100 hover:bg-green-50 transition sm:py-24 py-16 sm:px-10 px-6 relative rounded-lg overflow-hidden cursor-pointer" href="/portfolio/Scheduled_Runs.pdf" rel={"noreferrer noopener"} target="_blank">
+          <a className="flex flex-wrap w-full h-full bg-gray-100 hover:bg-green-50 transition sm:py-24 py-16 sm:px-10 px-6 relative rounded-lg overflow-hidden cursor-pointer" href="/CaseStudy4">
             <img alt="gallery" className="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src="/img/Scheduled_Runs.png"/>
             <div className="text-center relative z-10 w-full">
               <h2 className="text-xl text-gray-900 font-medium title-font mb-2">Scheduled Runs</h2>
               <p className="leading-relaxed">Adobe XD</p>
               <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
               </a>
@@ -178,7 +178,7 @@ export default function Home() {
           <h2 className="text-2xl text-gray-900 font-medium title-font mb-2">Email Sig Generator</h2>
           <p className="leading-relaxed">React, TypeScript, Material-UI, Netlify</p>
           <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+            <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
           </a>
@@ -194,7 +194,7 @@ export default function Home() {
               <h2 className="text-xl text-gray-900 font-medium title-font mb-2">Production Risk Management</h2>
               <p className="leading-relaxed">Built on Wix</p>
               <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
               </a>
@@ -208,7 +208,7 @@ export default function Home() {
               <h2 className="text-xl text-gray-900 font-medium title-font mb-2">ROI Estimator</h2>
               <p className="leading-relaxed">React, Material-UI, Netlify</p>
               <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
               </a>
@@ -224,7 +224,7 @@ export default function Home() {
           <h2 className="text-2xl text-gray-900 font-medium title-font mb-2">Acadia Full Website</h2>
           <p className="leading-relaxed">Webflow, CMS, Javascript, CSS, HTML</p>
           <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+            <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
           </a>
@@ -240,7 +240,7 @@ export default function Home() {
               <h2 className="text-xl text-gray-900 font-medium title-font mb-2">We are Pause</h2>
               <p className="leading-relaxed">HTML, CSS, JS, Branding, Video Production/Editing</p>
               <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
               </a>
@@ -254,7 +254,7 @@ export default function Home() {
               <h2 className="text-xl text-gray-900 font-medium title-font mb-2">FrontendBilly</h2>
               <p className="leading-relaxed">React, Next.js, Tailwind CSS, Netlify</p>
               <a className="mt-3 text-grey-600 inline-flex items-center rounded px-2 py-1 bg-green-100">Check it out
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
               </a>
@@ -284,13 +284,13 @@ export default function Home() {
     </p>
     <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
       <a className="ml-3 text-gray-500" href="https://www.instagram.com/_billymcdowell/" target="_blank" rel={"noreferrer noopener"}>
-        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
+        <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
           <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
           <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
         </svg>
       </a>
       <a className="ml-3 text-gray-500" href="https://www.linkedin.com/in/billy-mcdowell-8a4bb4ab/" target="_blank" rel={"noreferrer noopener"}>
-        <svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" className="w-5 h-5" viewBox="0 0 24 24">
+        <svg fill="currentColor" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="0" className="w-5 h-5" viewBox="0 0 24 24">
           <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"></path>
           <circle cx="4" cy="4" r="2" stroke="none"></circle>
         </svg>
