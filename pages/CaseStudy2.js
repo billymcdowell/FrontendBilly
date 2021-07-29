@@ -46,21 +46,21 @@ export default function CaseStudy2() {
         <div className="mt-36 text-left mx-4 md:mx-0">
             <h1>The Problem</h1>
             <p className="text-lg mt-6 text-gray-500">
-              Lorem ipsum dolor...
+              A process and flow was needed to bilaterally agree agreement terms, prior to trading.
             </p>
             <img src='/img/agreements/Artboard-1.png' alt="Picture of the author" width="800" className="m-auto mt-8"/>
         </div>
         <div className="mt-36 text-left mx-4 md:mx-0">
             <h1>My Role</h1>
             <p className="text-lg mt-6 text-gray-500">
-            Lorem ipsum dolor...
+            I was the sole UX designer on an Agile team comprised of 3 developers, a product owner. I was responsible for determining the overall design direction of the project, while collaborating with the product owner on ideation, requirements.
             </p>
             <img src='/img/agreements/Artboard-2.png' alt="Picture of the author" width="800" className="m-auto mt-8"/>
         </div>
         <div className="mt-36 text-left mx-4 md:mx-0">
             <h1>How I came to my solution</h1>
             <p className="text-lg mt-6 text-gray-500">
-            Lorem ipsum dolor...
+            Stakeholder interviews, usability testing and user surveys showed the general flow was simple and a conscious effort was made to keep it this way. After many wire-framing sessions, working closely with the product owner and usability sessions, we came to our final solution.
             </p>
             
             <img src='/img/agreements/IMG_4802.png' alt="Picture of the author" width="800" className="m-auto mt-8"/>
@@ -69,7 +69,7 @@ export default function CaseStudy2() {
         <div className="mt-36 text-left mx-4 md:mx-0">
             <h1>How my solution solved the problem</h1>
             <p className="text-lg mt-6 text-gray-500">
-            Lorem ipsum dolor...
+            The proposed solution solved the problem by allowing the user to easily set up and mutually agree agreement terms. 
             </p>
             <img src='/img/agreements/Artboard-3.png' alt="Picture of the author" width="800" className="m-auto mt-8"/>
             <img src='/img/agreements/Artboard-4.png' alt="Picture of the author" width="800" className="m-auto mt-8"/>
@@ -77,14 +77,15 @@ export default function CaseStudy2() {
         <div className="mt-36 text-left mx-4 md:mx-0">
             <h1>Challenges</h1>
             <p className="text-lg mt-6 text-gray-500">
-            Lorem ipsum dolor...
+            The challenges we faced were mostly regarding the amount of data that was needed to be
+inputed and making sure only the absolutely necessary data was inputed to keep the process as simple and easy as possible.
             </p>
             <img src='/img/agreements/Artboard-5.png' alt="Picture of the author" width="800" className="m-auto mt-8"/>
         </div>
         <div className="mt-36 text-left mx-4 md:mx-0">
             <h1>Effects to the users and the business</h1>
             <p className="text-lg mt-6 text-gray-500">
-            Lorem ipsum dolor...
+            Users are now able to focus on my important tasks as the agreement only needs to be set up once to allows the agreement of terms, thus removing many step from the users previous agreement flow.
             </p>
             <img src='/img/agreements/Artboard-6.png' alt="Picture of the author" width="800" className="m-auto mt-8"/>
             <img src='/img/agreements/Artboard-7.png' alt="Picture of the author" width="800" className="m-auto mt-8"/>
@@ -96,7 +97,7 @@ export default function CaseStudy2() {
             <div className="my-36">
             <h1>What I learnt</h1>
             <p className="text-lg mt-6 text-gray-500">
-            Lorem ipsum dolor...
+            Because of this project, I demonstrated the power of usability testing to the product management team and have further distilled a user led culture in to the way that products are designed, tested and implemented.
             </p>
             </div>
         </div>
