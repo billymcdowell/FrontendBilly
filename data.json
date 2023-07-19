@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Design ✍",
+    "items": [
+      {
+        "title": "Preferences & Profiles",
+        "subtitle": "Sketch, Invision Prototype",
+        "img": "/img/Preferences_Profiles.png",
+        "link": "/CaseStudy1"
+      },
+      {
+        "title": "Production Risk Management",
+        "subtitle": "Adobe XD, Wix",
+        "img": "/img/PRM.png",
+        "link": "https://productionriskmanagement.com/"
+      },
+      {
+        "title": "Agreements",
+        "subtitle": "Adobe XD",
+        "img": "/img/Agreements.png",
+        "link": "/CaseStudy2"
+      },
+      {
+        "title": "Acadia Full Website",
+        "subtitle": "Design Consultancy",
+        "img": "/img/Acadia.png",
+        "link": "https://acadia.inc/"
+      },
+      {
+        "title": "Data Organization",
+        "subtitle": "Adobe XD",
+        "img": "/img/Data_DarkMode.png",
+        "link": "/CaseStudy3"
+      },
+      {
+        "title": "Scheduled Runs",
+        "subtitle": "Adobe XD",
+        "img": "/img/Scheduled_Runs.png",
+        "link": "/CaseStudy4"
+      }
+    ]
+  },
+  {
+    "title": "Code 💻",
+    "items": [
+      {
+        "title": "Wound App",
+        "subtitle": "React, TypeScript, Material-UI, Python, Django, Django Rest Framework",
+        "img": "/img/woundapp/Frame_2.png",
+        "link": "/CaseStudy5"
+      },
+      {
+        "title": "Email Sig Generator",
+        "subtitle": "React, TypeScript, Material-UI, Netlify",
+        "img": "/img/Email-Sig.png",
+        "link": "https://acadia-email-sig.netlify.app/"
+      },
+      {
+        "title": "Production Risk Management",
+        "subtitle": "Adobe XD, Wix",
+        "img": "/img/PRM.png",
+        "link": "https://productionriskmanagement.com/"
+      },
+      {
+        "title": "ROI Estimator",
+        "subtitle": "React, Material-UI, Netlify, Chart.js",
+        "img": "/img/ROI.png",
+        "link": "https://roi-estimator.netlify.app/"
+      },
+      {
+        "title": "Acadia Full Website",
+        "subtitle": "Webflow, CMS, Javascript, CSS, HTML",
+        "img": "/img/Acadia.png",
+        "link": "https://acadia.inc/"
+      },
+      {
+        "title": "FrontendBilly",
+        "subtitle": "React, Next.js, Tailwind CSS, Netlify",
+        "img": "/img/FrontendBilly.png",
+        "link": "https://github.com/billymcdowell/FrontendBilly"
+      }
+    ]
+  }
+]
