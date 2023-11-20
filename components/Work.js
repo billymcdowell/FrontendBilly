@@ -1,5 +1,6 @@
 import React from "react";
 import data from "../data.json";
+import Link from "next/link";
 
 function Work() {
   return (
@@ -30,7 +31,7 @@ function Work() {
                   }`}
                 >
                   <div className="p-4 flex flex-col flex-grow">
-                    <a
+                    <Link
                       className="flex flex-col flex-grow"
                       // className="h-100 flex flex-wrap w-full bg-gray-100 hover:bg-green-50 transition py-32 px-10 relative mb-4 rounded-lg overflow-hidden cursor-pointer"
                       href={item.link}
@@ -69,7 +70,7 @@ function Work() {
                           </div>
                         </div>
                       </div>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               ))}
