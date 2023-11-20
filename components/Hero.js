@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 function Hero() {
@@ -23,14 +24,12 @@ function Hero() {
             >
               Let's Chat
             </a>
-            <a
+            <Link
               className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg transition"
-              href="/CV/William_McDowell_2023_CV.pdf"
-              rel={"noreferrer noopener"}
-              target="_blank"
+              href="/CV"
             >
               Check out CV
-            </a>
+            </Link>
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 xs:w-5/6 order-first md:order-last pb-6">
