@@ -19,7 +19,7 @@ function Hero() {
           </p>
           <div className="flex justify-center">
             <a
-              className="inline-flex text-black bg-green-300 border-0 py-2 px-6 focus:outline-none hover:bg-green-500 rounded text-lg transition"
+              className="inline-flex text-black bg-green-300 border-0 py-2 px-6 focus:outline-none hover:bg-green-500 rounded text-lg transition shadow-md"
               href="mailto:wilgemcdowell@gmail.com?subject=Lets%20have%20a%20chat"
             >
               Let's Chat
@@ -33,7 +33,11 @@ function Hero() {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 xs:w-5/6 order-first md:order-last pb-6">
-          <img className="mx-auto" alt="hero" src="/img/Headshot.png" />
+          <img
+            className="mx-auto drop-shadow-lg"
+            alt="hero"
+            src="/img/Headshot.png"
+          />
         </div>
       </div>
     </section>

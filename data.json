@@ -6,19 +6,13 @@
         "title": "Preferences & Profiles",
         "subtitle": "Sketch, Invision Prototype",
         "img": "/img/Preferences_Profiles.png",
-        "link": "/CaseStudy1"
-      },
-      {
-        "title": "Production Risk Management",
-        "subtitle": "Adobe XD, Wix",
-        "img": "/img/PRM.png",
-        "link": "https://productionriskmanagement.com/"
+        "link": "/works/case-study-1"
       },
       {
         "title": "Agreements",
         "subtitle": "Adobe XD",
         "img": "/img/Agreements.png",
-        "link": "/CaseStudy2"
+        "link": "/works/case-study-2"
       },
       {
         "title": "Acadia Full Website",
@@ -30,13 +24,13 @@
         "title": "Data Organization",
         "subtitle": "Adobe XD",
         "img": "/img/Data_DarkMode.png",
-        "link": "/CaseStudy3"
+        "link": "/works/case-study-3"
       },
       {
         "title": "Scheduled Runs",
         "subtitle": "Adobe XD",
         "img": "/img/Scheduled_Runs.png",
-        "link": "/CaseStudy4"
+        "link": "/works/case-study-4"
       }
     ]
   },
@@ -47,19 +41,13 @@
         "title": "Wound App",
         "subtitle": "React, TypeScript, Material-UI, Python, Django, Django Rest Framework",
         "img": "/img/woundapp/Frame_2.png",
-        "link": "/CaseStudy5"
+        "link": "/works/case-study-5"
       },
       {
         "title": "Email Sig Generator",
         "subtitle": "React, TypeScript, Material-UI, Netlify",
         "img": "/img/Email-Sig.png",
         "link": "https://acadia-email-sig.netlify.app/"
-      },
-      {
-        "title": "Production Risk Management",
-        "subtitle": "Adobe XD, Wix",
-        "img": "/img/PRM.png",
-        "link": "https://productionriskmanagement.com/"
       },
       {
         "title": "ROI Estimator",

@@ -1,34 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Billy's Portfolio
 
-## Getting Started
+Welcome to my portfolio repository! 🚀 Explore my journey through the realms of UX/UI design and frontend development.
 
-First, run the development server:
+## 🌐 [Live Portfolio](https://frontendbilly.netlify.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [About Me](#about-me)
+- [Experience](#experience)
+- [Education](#education)
+- [Skills](#skills)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## About Me
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+I am Billy McDowell, a passionate Frontend Developer with a strong background in UX/UI design. My journey in the tech world involves creating seamless and engaging user experiences.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Experience
 
-## Learn More
+### Frontend Developer / Freelance
 
-To learn more about Next.js, take a look at the following resources:
+**Remote | 2019 - Present**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Proficient in React, delivering high-quality front-end solutions that provide exceptional user experiences.
+- Successfully executed multiple freelance projects, taking them from initial brief to working Proof of Concept (POC), and in some cases, deployment to production.
+- Collaborated closely with clients to gather requirements, designing user interfaces for seamless integration and optimal user interactions.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### UX/UI Designer / Argus Media
 
-## Deploy on Vercel
+**London, UK | Oct 2021 - Present**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Build user experience design for Argus Media's digital products, ensuring seamless user interactions.
+- Collaborated with product owners, managers, and engineers to align user needs with business objectives.
+- Employed innovative approaches to enhance findability and usability.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### UX/UI Designer / Acadia
+
+**London, UK | Jul 2019 – Oct 2021**
+
+- Promoted UX and defined firm's Brand Guidelines.
+- Designed a common UI Design language and Pattern Library.
+- Redesigned Collateral Software tools for banks.
+
+## Education
+
+- Certificate in UX Design / Nielsen Norman Group (Online | 2023)
+- Professional Diploma in UX Design / UX Design Institute (Online | 2020)
+- Photography and Video Ba (Hons), 2:1 / De Montfort University (Leicester, UK | 2014 – 2017)
+
+## Skills
+
+- React | TypeScript | Redux | Material UI | Tailwind | Chart.js | Storybook | HTML/CSS/JS
+- Git | Responsive Design | Agile | Prototyping | User Research | Usability Testing
+- Wireframing | User Interviews | Contextual Inquiry | Affinity Mapping
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/williammcdowell/)
+- [Twitter](https://twitter.com/frontendbilly)
+- [Email](mailto:wilgemcdowell@gmail.com)
+
+Feel free to reach out! Let's create something amazing together! ✨

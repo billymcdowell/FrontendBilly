@@ -1,4 +1,4 @@
-import MdxLayout from "../components/mdx-layout";
+import MdxCVLayout from "../../src/components/MdxCVLayout";
 
 # William McDowell
 
@@ -30,7 +30,7 @@ Remote | 2019 - Present
 
 London, UK | Oct 2021 - Present
 
-- Lead user experience design for Argus Media's digital products, ensuring seamless user interactions.
+- Build user experience design for Argus Media's digital products, ensuring seamless user interactions.
 - Collaborated with product owners, managers, and engineers to align user needs with business objectives.
 - Employed innovative approaches to enhance findability and usability.
 - Created prototypes and conducted design workshops for feedback.
@@ -73,9 +73,5 @@ London, UK | Aug 2018 – Jul 2019
 - Wireframing | User Interviews | Contextual Inquiry | Affinity Mapping
 
 export default function MDXPage({ children }) {
-  return (
-    <>
-      <MdxLayout>{children}</MdxLayout>
-    </>
-  );
+  return <MdxCVLayout>{children}</MdxCVLayout>;
 }

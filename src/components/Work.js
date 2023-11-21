@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../data.json";
+import data from "../../data.json";
 import Link from "next/link";
 
 function Work() {
@@ -11,7 +11,7 @@ function Work() {
           className="text-gray-600 body-font md:px-12 mb-28"
           id="work"
         >
-          <div className="container mx-auto max-w-4xl md:items-center p-4">
+          <div className="container mx-auto max-w-6xl md:items-center p-4">
             <div className="w-full flex flex-col sm:flex-row items-start mx-auto">
               <h2 className="title-font sm:text-2xl sm:text-center text-xl mb-4 font-small text-gray-900">
                 {section.title}
@@ -19,7 +19,7 @@ function Work() {
             </div>
           </div>
 
-          <div className="container mx-auto max-w-4xl">
+          <div className="container mx-auto max-w-6xl">
             <div className="flex flex-wrap w-full">
               {section.items.map((item, idx) => (
                 <div
@@ -42,7 +42,7 @@ function Work() {
                           backgroundSize: "cover",
                           backgroundPosition: "center",
                         }}
-                        className="rounded overflow-hidden flex flex-col flex-grow"
+                        className="rounded overflow-hidden flex flex-col flex-grow shadow-lg"
                       >
                         <div
                           style={{
