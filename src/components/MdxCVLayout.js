@@ -31,7 +31,7 @@ export default function MdxCVLayout({ children }) {
       </Head>
       <div className="font-body">
         <Header />
-        <main className="m-auto max-w-4xl sm:mt-36 mt-4">
+        <main className="lg:mx-auto max-w-4xl sm:mt-36 mt-4 bg-white rounded shadow-lg border py-12 px-6 md:py-16 md:px-12 mx-2">
           <div className="sm:mx-4 mx-2 flex flex-col gap-6">{children}</div>
         </main>
         <CTA />
