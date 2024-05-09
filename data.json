@@ -56,6 +56,12 @@
         "link": "https://roi-estimator.netlify.app/"
       },
       {
+        "title": "Youtube Clone",
+        "subtitle": "Next JS, Tailwind, Radix UI",
+        "img": "https://github.com/billymcdowell/youtube-clone/blob/main/screenshots/image.png?raw=true",
+        "link": "https://youtube.iamux.co.uk/"
+      },
+      {
         "title": "Acadia Full Website",
         "subtitle": "Webflow, CMS, Javascript, CSS, HTML",
         "img": "/img/Acadia.png",
